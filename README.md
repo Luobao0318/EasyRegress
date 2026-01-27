@@ -29,14 +29,7 @@ It is designed for analysts, researchers, and students who need to perform compl
 
 ## 📥 Download & Installation
 
-### Option 1: Standalone Application
-For Windows users who just want to use the software:
-
-1.  Go to the [**Releases Page**](https://github.com/Luobao0318/EasyRegress/releases).
-2.  Download the latest `EasyRegress.zip` or the executable file.
-3.  Unzip and run `EasyRegress.exe`.
-
-### Option 2: Run from Source
+### Run from Source
 If you want to modify the code or run it on Linux/macOS:
 
 1.  **Clone the repository**
