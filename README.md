@@ -84,13 +84,11 @@ If you want to modify the code or run it on Linux/macOS:
 
 | Login Screen | Dashboard & Analysis |
 | :---: | :---: |
-| ![Login](https://via.placeholder.com/400x250?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/400x250?text=Dashboard+Analysis) |
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
 | Interactive Charts | PDF Report |
 | :---: | :---: |
-| ![Charts](https://via.placeholder.com/400x250?text=Interactive+Charts) | ![PDF Report](https://via.placeholder.com/400x250?text=PDF+Report) |
-
-*(Note: Screenshots to be updated)*
+| ![Charts](screenshots/charts.png) | ![PDF Report](screenshots/PDF.png) |
 
 ---
 
