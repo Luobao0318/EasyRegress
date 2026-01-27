@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**EasyRegress** (formerly *PredictData Pro*) is a powerful **No-Code Machine Learning Regression Tool** built with Python and PyQt5. 
+**EasyRegress** is a  **No-Code Machine Learning Regression Tool** built with Python and PyQt5. 
 
 It is designed for analysts, researchers, and students who need to perform complex data predictions without writing a single line of code. From data import and cleaning to model training and reporting, EasyRegress automates the entire workflow in a modern, fluid desktop interface.
 
