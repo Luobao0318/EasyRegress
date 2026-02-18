@@ -3,7 +3,7 @@
 ![Build Status](https://github.com/Luobao0318/EasyRegress/actions/workflows/build.yml/badge.svg)
 ![Release](https://img.shields.io/github/v/release/Luobao0318/EasyRegress)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GPL-3.0-green)
 
 EasyRegress is a **no-code regression tool** for machine learning, built with Python and PyQt5.
 
@@ -117,4 +117,4 @@ Contributions are welcome! If you have suggestions or find bugs, please open an 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-3.0 License](LICENSE).
